@@ -1,0 +1,416 @@
+Job_Title,Job_Desc_Req,Skills,Knowledge
+IT Manager (Data Science) Information Technology Jobs Singapore | MyCareersFuture Singapore,"Collaborate with data scientists to understand their data, processing, and infrastructure needs to support AI and machine learning initiatives effectively.
+Ensure IT infrastructure is capable of supporting AI applications by providing high-performance computing resources and cloud-based platforms.
+Facilitate data accessibility across various sources, such as CRM, ERP, and e-commerce systems, while ensuring security and compliance.
+Work with data scientists to operationalize machine learning models by setting up deployment, monitoring, and continuous improvement frameworks.
+Evaluate and implement AI/ML platforms, tools, and technologies to enhance data science workflows, including model training and deployment.
+Oversee data security protocols to protect sensitive information and ensure compliance with data privacy regulations.
+Support data visualization initiatives and provide technical guidance to data science and BI teams for large-scale data analysis.
+Manage IT systems for optimal performance, ensuring scalability as data volumes grow and applications become more data-intensive.
+Min Bachelor’s degree in Information Technology, Data Science, Computer Science, or a related field; master’s degree is a plus.
+Min 5-7 years of experience in IT management, with a strong understanding of data science methodologies, machine learning, and AI tools.
+Proficiency in data science platforms and tools (e.g., TensorFlow, PyTorch, Jupyter notebooks) and cloud services supporting AI (e.g., AWS SageMaker, Google AI Platform).
+Strong knowledge of data governance, data privacy regulations and compliance best practices.
+Experience in overseeing model deployment processes, including MLOps and AI lifecycle management.
+Familiarity with BI and data visualization tools (e.g., Tableau, Power BI) and the ability to support data storytelling initiatives.","[""Collaborate with data scientists"", ""support AI and machine learning initiatives effectively Ensure IT infrastructure is capable"", ""supporting AI applications"", ""providing high performance computing resources and cloud based platforms Facilitate data accessibility"", ""ensuring security and compliance Work with data scientists"", ""operationalize machine learning models"", ""setting up deployment monitoring and continuous improvement frameworks Evaluate and implement AI ML platforms tools and technologies"", ""enhance data science workflows"", ""Oversee data security protocols"", ""protect sensitive information"", ""ensure compliance with data privacy regulations Support data visualization initiatives"", ""provide technical guidance to data science and BI teams"", ""scale data analysis Manage IT systems for optimal performance ensuring scalability"", ""data volumes grow and applications"", ""overseeing model deployment processes"", ""support data storytelling initiatives""]","[""data"", ""AI"", ""machine learning"", ""IT"", ""AI"", ""cloud"", ""CRM ERP"", ""e commerce systems"", ""machine learning"", ""deployment monitoring"", ""continuous improvement"", ""AI ML"", ""data science"", ""model training"", ""deployment"", ""data privacy"", ""data visualization"", ""analysis"", ""Min Bachelor s degree"", ""Information Technology Data Science Computer Science"", ""master s degree"", ""IT management"", ""data science methodologies machine learning"", ""AI tools"", ""data science platforms"", ""tools"", ""TensorFlow"", ""Jupyter"", ""cloud services"", ""AI"", ""SageMaker Google AI Platform"", ""data governance data privacy regulations"", ""compliance best practices"", ""overseeing model deployment processes"", ""MLOps"", ""AI lifecycle management"", ""BI"", ""data visualization tools"", ""Power BI"", ""data""]"
+Senior Data Engineer Information Technology Jobs Singapore | MyCareersFuture Singapore,"Design and implement data architecture, pipelines and ETL processes.
+Develop and maintain data platform, dashboards to support analytics and reporting.
+Ensure data quality, reliability, and availability across all data platforms.
+Develop and implement IAC and CICD to streamline and automate the deployment process.
+Collaborate with Business units, data scientists, analysts, and other stakeholders to understand data needs and deliver solutions.
+Optimize data storage and retrieval processes for efficiency and performance.
+Provide L3 support for in-house development work and data platform/warehouse.
+Bachelor’s degree in Computer Science, Information Systems, or related field.
+At least 5 years of experience in data engineering or related roles.
+Proven experience in building data platforms in Cloud.
+Strong proficiency in SQL, Python, and other relevant programming languages.
+Hands-on experience with IAC and Cloud services such as terraform, BigQuery, Dataflow, Kafka and Pub/Sub will be a huge advantage.
+Familiarity with data modelling, ETL processes, and data warehousing concepts.
+Excellent problem-solving skills and attention to detail.
+Effective communication skills and the ability to work collaboratively in a team environment.","[""Design and implement data architecture pipelines and ETL processes Develop and maintain data platform dashboards"", ""support analytics and reporting Ensure data quality reliability and availability"", ""all data"", ""Develop and implement IAC and CICD"", ""streamline and automate the deployment process Collaborate with Business units data scientists analysts and other stakeholders"", ""understand data needs"", ""deliver solutions Optimize data storage and retrieval processes for efficiency and performance Provide L3 support for in house development work"", ""building data platforms in Cloud"", ""problem solving skills"", ""attention to detail Effective communication skills"", ""work collaboratively in a team environment""]","[""data architecture pipelines"", ""ETL"", ""data platform dashboards"", ""IAC"", ""CICD"", ""data storage"", ""data platform warehouse Bachelor s degree"", ""Computer Science Information Systems"", ""data engineering"", ""Cloud"", ""SQL Python"", ""programming languages"", ""IAC"", ""Cloud services"", ""terraform BigQuery Dataflow Kafka"", ""Pub Sub"", ""data modelling ETL processes"", ""data warehousing""]"
+DATA SCIENTIST | UP TO $8K | CONTRACT Information Technology Jobs Singapore | MyCareersFuture Singapore,"3-8 years of experience in computer science, applied mathematics, or other quantitative/computational disciplines.
+Proven experience in data visualization tools (e.g., Tableau) and data analysis/processing tools (e.g., R, Python).
+Experience with Cloud Technology (e.g., AWS data and analytics Tech Stack) and distributed computing tools (e.g., Hadoop/Spark).
+Demonstrated ability in building machine learning models at scale, using real-time data pipelines on platforms.
+Strong analytical skills with the ability to communicate complex quantitative analysis in a clear, precise, and actionable manner.
+Proficiency in data engineering, including SQL and manipulating structured and unstructured data sources for analysis.
+Advanced skills in pattern recognition and predictive modeling.
+Experience or specialization in fraud prevention/detection, compliance, forensics, or Jobs and Skills related analysis will be considered advantageous.
+Excellent communication and presentation skills, with a strong emphasis on collaboration and innovation.
+Research and develop statistical and machine learning models for comprehensive data analysis
+Utilize algorithms and models to mine big data, perform data and error analysis, and ensure data uniformity and accuracy
+Apply data mining techniques and perform statistical analysis to generate insights at scale
+Work closely with both internal and external stakeholders to understand analytic needs and develop effective solutions
+Create machine learning-based tools or processes, such as recommendation engines, and monitor their performance through A/B testing and predictive capabilities
+Communicate analytic solutions to stakeholders and implement necessary improvements to operational systems
+Identify relevant structured and unstructured data sources for mining meaningful insights
+Build prototype analysis pipelines iteratively to provide scalable insights
+Contribute to building data analytics capabilities across the organization, emphasizing the strategic value of data in achieving business objectives","[""building machine learning models at scale"", ""real time data pipelines"", ""analytical skills"", ""communicate complex quantitative analysis in a clear precise and actionable manner"", ""structured and unstructured data sources for"", ""communication and presentation skills"", ""Research and develop statistical and machine learning models for comprehensive data analysis Utilize algorithms and models"", ""mine big data perform data and error analysis"", ""ensure data uniformity and accuracy Apply data mining techniques"", ""perform statistical analysis"", ""generate insights at scale Work closely with both internal and external stakeholders"", ""understand analytic needs"", ""develop"", ""effective solutions Create machine learning based tools or processes"", ""monitor"", ""Communicate analytic solutions to stakeholders"", ""implement necessary improvements to operational systems Identify relevant structured and unstructured data sources for mining meaningful insights Build prototype analysis pipelines iteratively"", ""provide scalable insights Contribute"", ""building data analytics capabilities"", ""emphasizing the strategic value of data"", ""achieving business objectives""]","[""computer science applied mathematics"", ""quantitative computational"", ""data visualization tools"", ""data analysis processing tools"", ""Python"", ""Cloud Technology"", ""data and analytics Tech Stack"", ""distributed computing tools"", ""Spark"", ""machine"", ""real"", ""data pipelines"", ""data engineering"", ""SQL"", ""pattern recognition"", ""predictive modeling"", ""fraud prevention detection"", ""forensics"", ""Jobs"", ""Skills"", ""analysis"", ""statistical"", ""machine learning"", ""data analysis"", ""data mining"", ""statistical analysis"", ""machine learning"", ""recommendation engines"", ""A B testing"", ""predictive""]"
+Data Engineer Information Technology Jobs Singapore | MyCareersFuture Singapore,"Design and implement data architecture, pipelines and ETL processes.
+Develop and maintain data platform, dashboards to support analytics and reporting.
+Ensure data quality, reliability, and availability across all data platforms.
+Develop and implement IAC and CICD to streamline and automate the deployment process.
+Collaborate with Business units, data scientists, analysts, and other stakeholders to understand data needs and deliver solutions.
+Optimize data storage and retrieval processes for efficiency and performance.
+Provide L3 support for in-house development work and data platform/warehouse.
+Bachelor’s degree in Computer Science, Information Systems, or related field.
+At least 2-3 years of experience in data engineering or related roles.
+Proven experience in building data platforms in Cloud.
+Strong proficiency in SQL, Python, and other relevant programming languages.
+Hands-on experience with IAC and Cloud services such as terraform, BigQuery, Dataflow, Kafka and Pub/Sub will be a huge advantage.
+Familiarity with data modelling, ETL processes, and data warehousing concepts.
+Excellent problem-solving skills and attention to detail.
+Effective communication skills and the ability to work collaboratively in a team environment.","[""Design and implement data architecture pipelines and ETL processes Develop and maintain data platform dashboards"", ""support analytics and reporting Ensure data quality reliability and availability"", ""all data"", ""Develop and implement IAC and CICD"", ""streamline and automate the deployment process Collaborate with Business units data scientists analysts and other stakeholders"", ""understand data needs"", ""deliver solutions Optimize data storage and retrieval processes for efficiency and performance Provide L3 support for in house development work"", ""building data platforms in Cloud"", ""problem solving skills"", ""attention to detail Effective communication skills"", ""work collaboratively in a team environment""]","[""data architecture pipelines"", ""ETL"", ""data platform dashboards"", ""IAC"", ""CICD"", ""data storage"", ""data platform warehouse Bachelor s degree"", ""Computer Science Information Systems"", ""data engineering"", ""Cloud"", ""SQL Python"", ""programming"", ""IAC"", ""Cloud services"", ""terraform BigQuery Dataflow Kafka"", ""Pub Sub"", ""data modelling ETL processes"", ""data warehousing""]"
+Data Scientist (1-year contract)(7708) - Alexandra Hospital Healthcare / Pharmaceutical Jobs Singapore | MyCareersFuture Singapore,"Bachelor’s degree (required) in fields such as Data Science, Computer Science, Mathematics, Statistics, or related areas.
+Master’s degree or PhD degree in advanced analytical or technical friends like Data Science, Computer Science, Machine Learning or Artificial Intelligence will be preferred.
+Minimum 2 years of experience in applied data analysis, modelling or machine learning. Fresh graduates who have relevant exposures in internships or academic projects are welcome to apply
+Strong analytical and critical thinking skills
+Ability to explain technical concepts and insights to non-technical stakeholders.
+Work effectively with cross-functional teams.
+Ensure data accuracy and reliability.","[""analytical and critical thinking skills"", ""explain technical concepts and insights to non"", ""stakeholders Work effectively with cross functional teams Ensure data accuracy and reliability""]","[""Bachelor s degree"", ""Data Science Computer Science Mathematics Statistics"", ""Master s degree"", ""PhD degree"", ""Data Science Computer Science Machine Learning"", ""Artificial Intelligence"", ""applied data analysis modelling"", ""machine learning"", ""internships""]"
+"Data Engineer (Scala, SQL, Hadoop) Information Technology Jobs Singapore | MyCareersFuture Singapore","Design, build, and optimize scalable data pipelines using Scala and Hadoop frameworks.
+Implement ETL processes for ingesting, transforming, and storing data from various sources.
+Write and optimize complex SQL queries for efficient data retrieval and transformation.
+Troubleshoot and resolve performance issues in queries and data workflows.
+Manage Hadoop-based data infrastructure, including HDFS, Hive, and related components.
+Monitor system performance and optimize resource utilization in a distributed environment.
+Work closely with data analysts, data scientists, and business stakeholders to understand requirements and translate them into technical solutions.
+Provide technical guidance and best practices for data engineering within the team.
+Develop scripts and tools to automate repetitive tasks and enhance system monitoring.
+Ensure data quality and consistency through validation and monitoring mechanisms.
+Document technical solutions, workflows, and processes to ensure knowledge sharing and reproducibility.
+Ensure compliance with data governance and security policies.
+Proficiency in Scala programming and functional programming principles.
+Strong SQL skills, including query optimization and database design.
+Hands-on experience with Hadoop ecosystem tools (HDFS, Hive, YARN, MapReduce).
+Familiarity with other big data tools like Spark, Kafka, or Flink is a plus.
+Strong analytical skills with the ability to troubleshoot and resolve complex data issues.
+Excellent communication skills to effectively collaborate with technical and non-technical stakeholders.
+6+ years of experience in data engineering, big data technologies, or a similar role.
+Implement ETL processes for ingesting, transforming, and storing data from various sources.
+Write and optimize complex SQL queries for efficient data retrieval and transformation.
+Troubleshoot and resolve performance issues in queries and data workflows.
+Manage Hadoop-based data infrastructure, including HDFS, Hive, and related components.
+Monitor system performance and optimize resource utilization in a distributed environment.
+Work closely with data analysts, data scientists, and business stakeholders to understand requirements and translate them into technical solutions.
+Provide technical guidance and best practices for data engineering within the team.
+Develop scripts and tools to automate repetitive tasks and enhance system monitoring.
+Ensure data quality and consistency through validation and monitoring mechanisms.
+Document technical solutions, workflows, and processes to ensure knowledge sharing and reproducibility.
+Ensure compliance with data governance and security policies.
+Proficiency in Scala programming and functional programming principles.
+Strong SQL skills, including query optimization and database design.
+Hands-on experience with Hadoop ecosystem tools (HDFS, Hive, YARN, MapReduce).
+Familiarity with other big data tools like Spark, Kafka, or Flink is a plus.
+Strong analytical skills with the ability to troubleshoot and resolve complex data issues.
+Excellent communication skills to effectively collaborate with technical and non-technical stakeholders.
+6+ years of experience in data engineering, big data technologies, or a similar role.
+Implement ETL processes for ingesting, transforming, and storing data from various sources.
+Write and optimize complex SQL queries for efficient data retrieval and transformation.
+Troubleshoot and resolve performance issues in queries and data workflows.
+Manage Hadoop-based data infrastructure, including HDFS, Hive, and related components.
+Monitor system performance and optimize resource utilization in a distributed environment.
+Work closely with data analysts, data scientists, and business stakeholders to understand requirements and translate them into technical solutions.
+Provide technical guidance and best practices for data engineering within the team.
+Develop scripts and tools to automate repetitive tasks and enhance system monitoring.
+Ensure data quality and consistency through validation and monitoring mechanisms.
+Document technical solutions, workflows, and processes to ensure knowledge sharing and reproducibility.
+Ensure compliance with data governance and security policies.
+Proficiency in Scala programming and functional programming principles.
+Strong SQL skills, including query optimization and database design.
+Hands-on experience with Hadoop ecosystem tools (HDFS, Hive, YARN, MapReduce).
+Familiarity with other big data tools like Spark, Kafka, or Flink is a plus.
+Strong analytical skills with the ability to troubleshoot and resolve complex data issues.
+Excellent communication skills to effectively collaborate with technical and non-technical stakeholders.
+6+ years of experience in data engineering, big data technologies, or a similar role.","[""Design build and optimize scalable data pipelines"", ""Implement ETL processes"", ""ingesting transforming and storing data from various sources Write and optimize complex SQL queries for efficient data retrieval and transformation Troubleshoot and resolve performance issues in queries and data workflows Manage Hadoop based data infrastructure"", ""Monitor system performance"", ""optimize resource utilization in a distributed environment Work closely with data analysts data scientists and business stakeholders"", ""Provide technical guidance and best practices"", ""Develop scripts and tools"", ""automate repetitive tasks"", ""enhance system monitoring Ensure data quality and consistency through validation and monitoring mechanisms Document technical solutions workflows and processes"", ""ensure knowledge sharing and reproducibility Ensure compliance with data governance and security policies"", ""analytical skills"", ""troubleshoot and resolve complex data issues"", ""communication skills"", ""effectively collaborate with technical and non technical stakeholders"", ""Implement ETL processes"", ""transforming and storing data from various sources Write and optimize complex SQL queries for efficient data retrieval and transformation Troubleshoot and resolve performance issues in queries and data workflows Manage Hadoop based data infrastructure"", ""and related components Monitor system performance"", ""optimize resource utilization in a distributed environment Work closely with data analysts data scientists and business stakeholders"", ""understand requirements"", ""Provide technical guidance and best practices for data engineering"", ""Develop scripts and tools"", ""automate repetitive tasks"", ""enhance system monitoring Ensure data quality and consistency through validation and monitoring mechanisms Document technical solutions workflows and processes"", ""ensure knowledge sharing and reproducibility Ensure compliance with data governance and security policies"", ""analytical"", ""troubleshoot and resolve complex data issues"", ""communication skills"", ""effectively collaborate with technical and non technical stakeholders"", ""Implement ETL processes for ingesting transforming and storing data from various sources Write and optimize complex SQL queries for efficient data retrieval and transformation Troubleshoot and resolve performance issues in queries and data workflows Manage Hadoop based data infrastructure"", ""Monitor system performance"", ""optimize resource utilization in a distributed environment Work closely with data analysts data scientists and business stakeholders"", ""requirements"", ""Provide technical guidance and best practices for data engineering"", ""Develop scripts and tools"", ""automate repetitive tasks and enhance system monitoring Ensure data quality and consistency through validation and monitoring mechanisms Document technical solutions workflows and processes"", ""ensure knowledge sharing and reproducibility Ensure compliance with data governance and security policies"", ""analytical skills"", ""troubleshoot and resolve complex data issues"", ""communication skills"", ""effectively collaborate with technical and non technical stakeholders""]","[""data pipelines"", ""Scala"", ""Hadoop"", ""ETL"", ""SQL queries"", ""data retrieval"", ""queries"", ""data workflows"", ""Hadoop"", ""data infrastructure"", ""HDFS Hive"", ""data governance"", ""security"", ""Scala programming"", ""functional programming principles"", ""SQL"", ""query optimization"", ""database design"", ""Hadoop ecosystem tools HDFS Hive YARN MapReduce"", ""big"", ""Spark Kafka"", ""Flink"", ""data engineering big data technologies"", ""ETL"", ""SQL queries"", ""data retrieval"", ""transformation"", ""queries"", ""data workflows"", ""Hadoop"", ""data infrastructure"", ""HDFS Hive"", ""system performance"", ""data governance"", ""security"", ""Scala programming"", ""functional programming principles"", ""SQL"", ""query optimization"", ""database design"", ""Hadoop ecosystem tools HDFS Hive YARN MapReduce"", ""big data tools"", ""Spark Kafka"", ""Flink"", ""data engineering big data technologies"", ""ETL"", ""SQL queries"", ""data"", ""queries"", ""data workflows"", ""Hadoop"", ""data infrastructure"", ""HDFS Hive"", ""data governance"", ""security"", ""Scala programming"", ""functional programming principles"", ""SQL"", ""query optimization"", ""database design"", ""Hadoop ecosystem tools HDFS Hive YARN MapReduce"", ""Spark Kafka"", ""Flink"", ""data engineering big data technologies""]"
+"Data Engineer (Scala, SQL, Hadoop) Information Technology Jobs Singapore | MyCareersFuture Singapore","Design, build, and optimize scalable data pipelines using Scala and Hadoop frameworks.
+Implement ETL processes for ingesting, transforming, and storing data from various sources.
+Write and optimize complex SQL queries for efficient data retrieval and transformation.
+Troubleshoot and resolve performance issues in queries and data workflows.
+Manage Hadoop-based data infrastructure, including HDFS, Hive, and related components.
+Monitor system performance and optimize resource utilization in a distributed environment.
+Work closely with data analysts, data scientists, and business stakeholders to understand requirements and translate them into technical solutions.
+Provide technical guidance and best practices for data engineering within the team.
+Develop scripts and tools to automate repetitive tasks and enhance system monitoring.
+Ensure data quality and consistency through validation and monitoring mechanisms.
+Document technical solutions, workflows, and processes to ensure knowledge sharing and reproducibility.
+Ensure compliance with data governance and security policies.
+Proficiency in Scala programming and functional programming principles.
+Strong SQL skills, including query optimization and database design.
+Hands-on experience with Hadoop ecosystem tools (HDFS, Hive, YARN, MapReduce).
+Familiarity with other big data tools like Spark, Kafka, or Flink is a plus.
+Strong analytical skills with the ability to troubleshoot and resolve complex data issues.
+Excellentcommunication skills to effectively collaborate with technical and non-technical stakeholders.
+6+ years of experience in data engineering,big data technologies, or a similar role.","[""Design build and optimize scalable data pipelines"", ""Implement ETL processes"", ""ingesting transforming and storing data from various sources Write and optimize complex SQL queries for efficient data retrieval and transformation Troubleshoot and resolve performance issues in queries and data workflows Manage Hadoop based data infrastructure"", ""Monitor system performance"", ""optimize resource utilization in a distributed environment Work closely with data analysts data scientists and business stakeholders"", ""Provide technical guidance and best practices"", ""Develop scripts and tools"", ""automate repetitive tasks"", ""enhance system monitoring Ensure data quality and consistency through validation and monitoring mechanisms Document technical solutions workflows and processes"", ""ensure knowledge sharing and reproducibility Ensure compliance with data governance and security policies"", ""analytical skills"", ""troubleshoot and resolve complex data issues Excellentcommunication skills"", ""collaborate with technical and non technical stakeholders""]","[""data pipelines"", ""Scala"", ""Hadoop"", ""ETL"", ""SQL queries"", ""data retrieval"", ""queries"", ""data workflows"", ""Hadoop"", ""data infrastructure"", ""HDFS Hive"", ""data governance"", ""security"", ""Scala programming"", ""functional programming principles"", ""SQL"", ""query optimization"", ""database design"", ""Hadoop ecosystem tools HDFS Hive YARN MapReduce"", ""big"", ""Spark Kafka"", ""Flink"", ""data engineering big data technologies""]"
+"Service Delivery Manager, AWS Data Analytics - AI&A Consulting Jobs Singapore | MyCareersFuture Singapore","Oversee the end-to-end delivery of IT and data analytics services to public sector clients, ensuring that services are delivered on time, within scope, and meet agreed-upon quality standards.
+Monitor and manage SLAs, ensuring that all services are delivered in accordance with contractual obligations.
+Proactively identify and resolve service delivery issues, escalating as necessary to ensure minimal disruption to public sector operations.
+Act as the primary point of contact for public sector clients, building and maintaining strong relationships with key stakeholders.
+Conduct regular service review meetings with clients to discuss performance, address concerns, and identify opportunities for service improvement.
+Ensure that client feedback is captured and acted upon to continuously improve service delivery.
+Collaborate with data engineers, data scientists, and other technical teams to ensure the successful deployment and operation of data analytics platforms.
+Provide expertise in data integration, data warehousing, and big data processing to support public sector decision-making and operational efficiency.
+Identify and implement continuous improvement initiatives to enhance service delivery processes and outcomes.
+Work closely with internal teams to develop and implement best practices for service delivery in the public sector.
+Monitor industry trends and emerging technologies to ensure that services remain relevant and aligned with public sector needs.
+Identify and mitigate risks related to service delivery, ensuring that potential issues are addressed before they impact service quality.
+Develop and maintain contingency plans to ensure business continuity in the event of service disruptions.
+Prepare and present regular service performance reports to both internal and external stakeholders.
+Maintain comprehensive documentation of service delivery processes, SLAs, and client communications.
+Ensure that all service delivery activities are fully documented and comply with relevant regulatory requirements.
+Lead and mentor a team of service delivery professionals, providing guidance and support to ensure high performance and professional development.
+Foster a collaborative and inclusive team environment, promoting a culture of excellence and continuous improvement.
+Bachelor’s degree in Information Technology, Computer Science, Data Science, Business Administration, Public Administration, or a related field.
+Relevant certifications such as ITIL, PMP, AWS Certified Data Analytics – Specialty, or PRINCE2 are highly desirable.
+Experience in service delivery management, preferably within the public sector or a related industry
+Proven track record of managing complex IT service delivery projects and ensuring compliance with SLAs.
+Experience working with public sector clients in Singapore is highly advantageous.
+Strong understanding of IT service management frameworks (e.g., ITIL) and best practices.
+Excellent client relationship management and communication skills.
+Strong problem-solving and decision-making abilities.
+Ability to manage multiple priorities and work under pressure in a fast-paced environment.
+Knowledge of public sector operations, policies, and regulatory requirements in Singapore.
+Proficiency in project management tools and software","[""Oversee the end to end delivery of IT and data analytics services"", ""ensuring that services are delivered on time within scope"", ""upon quality standards Monitor and manage SLAs ensuring that all services are delivered in accordance with contractual obligations Proactively identify and resolve service delivery issues escalating as"", ""ensure minimal disruption to public sector operations Act as the primary point of contact"", ""building and maintaining strong relationships with key stakeholders Conduct regular service review meetings"", ""discuss performance address concerns"", ""identify opportunities for service improvement Ensure that client feedback is captured and acted upon"", ""continuously improve service delivery Collaborate with data engineers data scientists and other technical teams"", ""ensure the successful deployment and operation of data analytics platforms Provide expertise in data integration data warehousing and big data processing"", ""support public sector decision making and operational efficiency Identify and implement continuous improvement initiatives"", ""enhance service delivery processes and outcomes Work closely with internal teams"", ""develop and implement best practices for service delivery"", ""Monitor industry trends and emerging technologies"", ""ensure that services remain relevant and"", ""Identify and mitigate risks"", ""ensuring that potential issues are addressed"", ""Develop and maintain contingency plans"", ""ensure business continuity in the event of service disruptions Prepare and present regular service performance reports"", ""Maintain comprehensive documentation of service delivery processes SLAs and client communications Ensure that all service delivery activities are fully documented"", ""comply"", ""relevant regulatory requirements Lead and mentor a team of service delivery professionals providing guidance and support"", ""ensure high performance and professional development Foster a collaborative and inclusive team environment promoting a culture of excellence and continuous improvement"", ""managing complex IT service delivery projects"", ""ensuring compliance with SLAs"", ""working with public sector clients"", ""client relationship"", ""communication skills"", ""problem solving and decision making abilities"", ""manage multiple priorities"", ""work under pressure in a fast paced environment""]","[""IT"", ""data analytics"", ""delivery"", ""data analytics"", ""data integration data warehousing"", ""big data processing"", ""service delivery"", ""SLAs"", ""client communications"", ""improvement Bachelor s degree"", ""Information Technology Computer Science Data Science Business Administration Public Administration"", ""ITIL PMP AWS Certified Data Analytics"", ""PRINCE2"", ""service delivery management"", ""public"", ""IT"", ""Singapore"", ""IT"", ""management frameworks"", ""best practices"", ""public sector operations policies"", ""regulatory requirements"", ""Singapore"", ""project management tools"", ""software""]"
+Data Architect Information Technology Jobs Singapore | MyCareersFuture Singapore,"Design conceptual and logical data models and flowcharts
+Develop database solutions to store and retrieve company information
+Optimize new and current database systems
+Define security and backup proceduresInstall and configure information systems
+Analyze structural requirements for new software and applications
+Migrate data from legacy systems to new solutions
+Improve system performance by conducting tests, troubleshooting and integrating new elements
+Coordinate with the Data Science department to identify future needs and requirements
+5 years of experience as a Data Architect, Data Scientist, Data Analyst or similar role.
+In-depth understanding of database structure principles
+Experience gathering and analyzing system requirements
+Knowledge of data mining and segmentation techniques
+Expertise in SQL and Oracle
+Familiarity with data visualization tools (e.g. Tableau, D3.js and R)","[""Design conceptual and logical data models and flowcharts Develop database solutions"", ""store and retrieve company information Optimize new and current database systems Define security and backup proceduresInstall and configure information systems Analyze structural requirements for new software and applications Migrate data from legacy systems"", ""Improve system performance"", ""conducting tests troubleshooting"", ""integrating new elements"", ""identify future needs and requirements"", ""gathering and analyzing system requirements""]","[""Data"", ""database structure principles"", ""data mining"", ""SQL"", ""Oracle"", ""data visualization tools"", ""D3 js"", ""R""]"
+"Associate AI Scientist / AI Scientist – Artificial Intelligence, SAP Labs Singapore Information Technology Jobs Singapore | MyCareersFuture Singapore","Push the frontiers of what is possible in the area of artificial intelligence and machine learning so as to create new solutions
+Explore, understand, and implement most recent technologies and approaches for data science problems
+Comfortably handle multi-terabyte data sets in scale-up and scale-out environments
+Strive for state-of-the art, highly accurate and scalable data science models
+Understand business processes which create and consume data to be able to select best approaches, evaluate their performance and assess business relevance
+Create excellence both in terms of results quality and system scalability through continuous evaluation, analysis, and refinement of the system implementation
+Communicate the relevance of implemented systems and achieved results in a visual and consistent way
+Work closely with the team, customers, and partners to holistically understand business and user requirements and derive adequate application development concepts
+Performing quality assurance tasks
+Solve complex regression issues
+Ability to work in global teams with different time zones
+Immerse yourself quickly into new topics, terminology, and development tasks
+Undergraduate or Post-Graduate specialization in Artificial Intelligence or Ph.D. degree in Computer Science, Mathematics, Statistics, or equivalent fields
+0 to 3 years of working experience as data scientist, preferrable with an enterprise software or cloud application companies
+Publication track record on deep learning, machine learning, large language, and foundational models
+Proficient knowledge and track record of applying modern deep learning concepts
+Track record of developing novel learning algorithms or systems
+Experience with machine and deep learning software packages & libraries such as Caffe, Torch, Theano, TensorFlow, Keras, Scikit-learn, DeepLearning4j, GPT;
+Hands-on with programming languages such as Python, C++, Java, Scala
+Familiar with Agile/Scrum methodologies
+Strong desire to overcome obstacles and make your work benefit SAP's customers
+Excellent written and communication skills in English language
+Operational knowledge of Linux distributions such as Redhat, Ubuntu, SUSE
+Data Science experience in Large Language Models, Generative Pre-trained Transformer models, foundational models etc.","[""Push the frontiers of what is possible"", ""create new solutions Explore understand and implement most recent technologies and approaches for data"", ""problems Comfortably handle multi terabyte data sets in scale up and scale out environments Strive for state of the art highly accurate and scalable data science models Understand business processes"", ""create and consume data"", ""select best approaches evaluate their performance"", ""assess business relevance Create excellence"", ""continuous evaluation analysis"", ""refinement of the system implementation Communicate the relevance of implemented systems"", ""achieved results in a visual and consistent way Work closely with the team customers and partners"", ""holistically understand business and user requirements"", ""derive adequate application development concepts Performing quality assurance tasks Solve complex regression issues"", ""work in global teams with different time zones Immerse yourself quickly into new topics terminology and development tasks"", ""applying modern deep learning concepts"", ""developing novel learning algorithms or systems"", ""overcome obstacles"", ""communication skills""]","[""artificial intelligence"", ""machine learning"", ""data science"", ""multi"", ""data science"", ""business processes"", ""continuous evaluation analysis"", ""Artificial Intelligence"", ""Ph D degree"", ""Computer Science Mathematics Statistics"", ""data scientist"", ""enterprise software or cloud application companies"", ""deep learning machine learning large language"", ""foundational models"", ""modern"", ""learning"", ""machine and deep learning software packages"", ""Caffe Torch Theano TensorFlow Keras Scikit learn DeepLearning4j GPT"", ""Python C Java Scala"", ""Agile Scrum methodologies"", ""SAP"", ""English"", ""Linux distributions"", ""Redhat Ubuntu SUSE Data Science"", ""Large Language Models Generative Pre trained Transformer models""]"
+Data Scientist Practitioner (MNC l Contract) Information Technology Jobs Singapore | MyCareersFuture Singapore,"Drive the evolution of Data & Services products/platforms with an impact focused on data science and engineering.
+Design machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.
+Participate in identification and evaluation of data elements to deliver analytics for product development.
+Solve complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.
+Continuously innovate and determine new approaches & technologies to solve business. problems and generate business insights & recommendations.
+Break large solutions into smaller, releasable milestones to collect data and feedback from product managers, clients, and other stakeholders.
+Evangelize releases to users, incorporating feedback, and tracking usage to inform future development.
+Lead and mentor junior data scientists to foster a culture of continuous learning and growth
+Bachelor's Degree in Computer Science or any related discipline
+Minimum 1-2 years of experience in Data Scientist role.
+Excellent proficiency in Python, Spark.
+Quantitative and problem-solving skills.
+Excellent project management abilities.
+Quick learner with the ability to implement new technologies.
+Banking and Finance
+Corporate Finance and Accounting
+Call Center
+Engineering
+Events and Exhibitions
+Healthcare
+Hospitality
+Information Technology
+Life Sciences
+Logistics and Supply Chain
+Oil and Gas
+Retail","[""Drive the evolution of Data Services products platforms"", ""Design machine learning systems"", ""automate predictive models"", ""identification and evaluation of data elements"", ""deliver analytics for product development Solve complex problems with multi layered data sets"", ""optimizing existing machine learning libraries and frameworks Continuously innovate and determine new approaches technologies"", ""solve business problems"", ""generate business insights recommendations Break large solutions into smaller releasable milestones"", ""collect data and feedback from product managers clients and other stakeholders Evangelize releases to users incorporating feedback"", ""tracking usage"", ""inform future development Lead and mentor junior data scientists"", ""foster a culture of continuous learning and growth"", ""in"", ""and problem solving skills"", ""project management abilities Quick learner"", ""implement new technologies""]","[""Data Services"", ""data science"", ""engineering"", ""machine"", ""artificial"", ""AI software"", ""data sets"", ""machine learning libraries and frameworks"", ""Bachelor s Degree"", ""Computer Science"", ""Data"", ""Python Spark"", ""Banking"", ""Finance Corporate Finance"", ""Accounting Call Center Engineering Events"", ""Exhibitions Healthcare Hospitality Information Technology Life Sciences Logistics"", ""Supply Chain Oil"", ""Gas Retail""]"
+Data Architect Information Technology Jobs Singapore | MyCareersFuture Singapore,"Work with clients to determine data storage and organizational needs and Design data infrastructure for clients
+Develop database solutions to store and retrieve company information
+Install and configure information systems to ensure functionality
+Analyze structural requirements for new software and applications
+Migrate data from legacy systems to new solutions
+Design conceptual and logical data models and flowcharts
+Improve system performance by conducting tests, troubleshooting and integrating new elements
+Optimize new and current database systems
+Define security and backup procedures
+Coordinate with the Data Science department to identify future needs and requirements
+Provide operational support
+Work experience as a Data Architect, Data Scientist, Data Analyst or similar role.
+Understanding of database structure principles
+Experience gathering and analyzing system requirements
+Knowledge of data mining and segmentation techniques
+Experience in SQL and Oracle
+Experience in data visualization tools (e.g. Tableau, D3.js and R)","[""Work with clients"", ""determine data storage and organizational needs"", ""Design data infrastructure"", ""clients Develop database solutions"", ""store and retrieve company information Install and configure information systems"", ""ensure functionality Analyze structural requirements for new software and applications Migrate data from legacy systems"", ""Design conceptual and logical data models and flowcharts Improve system performance"", ""conducting tests troubleshooting"", ""integrating new elements Optimize new and current database systems Define security and backup procedures Coordinate"", ""identify future needs and requirements Provide operational support"", ""gathering and analyzing system requirements""]","[""data models"", ""flowcharts"", ""database structure principles"", ""data mining"", ""SQL"", ""Oracle"", ""data visualization tools"", ""D3 js"", ""R""]"
+Data Science Engineer Information Technology Jobs Singapore | MyCareersFuture Singapore,"Design and develop innovative AI/ML models to optimize business decision-making.
+Collaborate with cross-functional teams to identify and solve data-related challenges.
+Stay updated on the latest AI/ML advancements and apply them to enhance business outcomes.
+Mentor and guide junior data scientists, fostering a culture of continuous learning.
+Contribute to the development and implementation of data governance and quality standards.","[""Design and develop innovative AI ML models"", ""business decision making Collaborate with cross functional teams"", ""identify and solve data related challenges Stay updated on the latest"", ""Mentor and guide junior data scientists fostering a culture of continuous learning Contribute to the development and implementation of data governance and quality standards""]","[""AI ML models"", ""AI ML"", ""data governance"", ""quality""]"
+Data Scientist Information Technology Jobs Singapore | MyCareersFuture Singapore,"2 years of Data Science experience using Python
+Experience in Data Analysis & Interpretation, and Machine Learning
+Experience in Scala is preferred but not a must
+Formulate, design, and deliver AI/ML-based decision-making frameworks and models for business outcomes.
+Measure and justify values of AI/ML-based solutions.
+Collaborate and manage the team to perform, and be responsible for team decisions.
+Engage with multiple teams and contribute to key decisions, as well as provide solutions to problems for your immediate team and across multiple teams.
+Develop innovative AI/ML models to enhance business decision-making processes
+Collaborate with cross-functional teams to identify and address data-related challenges
+Stay up-to-date with the latest advancements in AI/ML technologies and apply them to improve business outcomes
+Lead and mentor junior data scientists.
+Contribute to the development and implementation of data governance and data quality standards.","[""Formulate design"", ""deliver AI ML based decision making frameworks and models for business outcomes Measure and justify values of AI ML based solutions Collaborate and manage the team"", ""perform and be responsible for team decisions Engage with multiple teams"", ""contribute to key decisions"", ""provide solutions to problems"", ""Develop innovative AI ML models"", ""enhance business decision making processes Collaborate with cross functional teams"", ""identify and address data related challenges Stay up to date"", ""Lead and mentor junior data scientists Contribute to the development and implementation of data governance and data quality standards""]","[""Data Science"", ""Python"", ""Data Analysis Interpretation"", ""Machine Learning"", ""Scala"", ""AI ML"", ""making"", ""AI ML"", ""AI ML"", ""AI ML"", ""data governance"", ""data quality""]"
+Data Science Practitioner Information Technology Jobs Singapore | MyCareersFuture Singapore,"As a Data Science Practitioner, you will be responsible for formulating, designing, and delivering AI/ML-based decision-making frameworks and models for business outcomes.
+Your day-to-day activities will involve measuring and justifying the values of AI/ML-based solutions.
+You are expected to be an SME, collaborate, and manage the team to perform, and be responsible for team decisions.
+Additionally, you will engage with multiple teams and contribute to key decisions, as well as provide solutions to problems for your immediate team and across multiple teams.
+Master proficiency in Data Science is required.
+Master proficiency in Data Analysis & Interpretation, Data Analytics, and other skills are recommended.
+Develop innovative AI/ML models to enhance business decision-making processes
+Collaborate with cross-functional teams to identify and address data-related challenges
+Stay up to date with the latest advancements in AI/ML technologies and apply them to improve business outcomes
+Lead and mentor junior data scientists to foster a culture of continuous learning and growth
+Contribute to the development and implementation of data governance and data quality standards","[""formulating designing and delivering AI ML based decision making frameworks and models for business outcomes"", ""measuring and justifying the values of AI ML based solutions"", ""an SME collaborate"", ""manage the team"", ""perform and be responsible for team decisions"", ""engage with multiple teams"", ""contribute to key decisions"", ""provide solutions to problems"", ""Develop innovative AI ML models"", ""enhance business decision making processes Collaborate with cross functional teams"", ""identify and address data related challenges Stay up to date with the latest"", ""Lead and mentor junior data scientists"", ""foster a culture of continuous learning and growth Contribute to the development and implementation of data governance and data quality standards""]","[""ML"", ""AI ML"", ""Data Science"", ""Data Analysis Interpretation Data Analytics"", ""AI ML"", ""AI ML"", ""data governance"", ""data quality""]"
+Data Science Practitioner Information Technology Jobs Singapore | MyCareersFuture Singapore,"Your day-to-day activities will involve measuring and justifying the values of AI/ML-based solutions.
+You are expected to be an SME, collaborate and manage the team to perform, and be responsible for team decisions.
+Additionally, you will engage with multiple teams and contribute to key decisions, as well as provide solutions to problems for your immediate team and across multiple teams.
+Master proficiency in Data Science is required.
+Master proficiency in Data Analysis & Interpretation, Data Analytics, and other skills are recommended.
+Develop innovative AI/ML models to enhance business decision-making processes.
+Collaborate with cross-functional teams to identify and address data-related challenges.
+Stay up-to-date with the latest advancements in AI/ML technologies and apply them to improve business outcomes.
+Lead and mentor junior data scientists to foster a culture of continuous learning and growth.
+Contribute to the development and implementation of data governance and data quality standards.
+Top 3 skills must have:
+a. Python
+b. Data science experience 1-2 years
+c. Scala (prefer not a must)
+Only Singaporeans
+Prepare your updated resume and expected package.
+Simply click on 'Apply here' or email to tamanna.bilandi@adecco.com to drop your resume
+All shortlisted candidates will be contacted.","[""measuring and justifying the values of AI ML based solutions"", ""collaborate"", ""manage the team"", ""perform and be responsible for team decisions"", ""engage with multiple teams"", ""contribute to key decisions"", ""provide solutions to problems"", ""Develop innovative AI ML models"", ""enhance business decision making processes Collaborate with cross functional teams"", ""identify and address data related challenges Stay up to date"", ""Lead and mentor junior data scientists"", ""foster a culture of continuous learning and growth Contribute to the development and implementation of data governance and data quality standards"", ""Prepare your updated resume and expected package""]","[""AI ML"", ""Data Science"", ""Data Analysis Interpretation Data Analytics"", ""AI ML"", ""AI ML"", ""data governance"", ""data quality standards"", ""Python b Data science"", ""c Scala""]"
+"Data Scientist - AI (Financial Services) Manager, Technology Consulting Banking and Finance Jobs Singapore | MyCareersFuture Singapore","Turn data into an asset for clients
+Rapidly perform Data Science analysis to provide insights using a variety of techniques
+Apply experience and expertise in several tools such as Python, Machine Learning and AI libraries, R and SAS
+Perform full lifecycle of Data Scientist activities, including conceptual and operational aspects
+Manage end to end projects - clarify requirements and devise research approaches
+Collect and combine data from multiple sources, analyze it for insights and produce great visuals
+Stay on top of current business and industry trends
+At the heart of this project is the ability to systematically analyze and build statistical and machine learning models for our clients across markets. We are looking for talented and experienced Data Scientists to bring innovation at EY
+Excellent communication skills
+Outstanding analytical and problem-solving skills
+Ability to work in a team
+Degree in Computer Science, Mathematics or similar quantitative field;
+Minimally 6 years of relevant experience
+Strong knowledge and experience of data mining and machine learning - algorithms, regression techniques, Bayesian models, decision trees, clustering, pattern recognition, probability theory, stochastic systems, statistical techniques and dimensionality reduction
+Deep knowledge and experience developing solutions using Deep Learning, Neural Nets, Graph-Nets, Computational Linguistics (NLP, NLU, NLG, Speech) and Computer Vision (Video, Image Processing), Auto-Encoders and Generative Networks.
+Knowledge of Reinforcement Learning is a plus
+Understanding and experience in model production using CI/CD and REST API, or similar services for real-time processing
+Programming experience with Python, R, SAS or other related languages
+Experience in TensorFlow, PyTorch, H2O or similar framework; expertise in any of these frameworks is a plus
+Strong analytical and problem-solving skills with a passion for research
+Knowledge of robotics process automation (RPA) is a plus
+Proven experience as a Data Scientist in AI/ML or similar role
+Understanding of data structures, data modeling, software architecture and implementation
+Deep knowledge of math, probability, statistics and algorithms
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.","[""Turn data into an asset"", ""Rapidly perform Data Science analysis"", ""provide insights using a variety of techniques"", ""Perform full lifecycle of Data Scientist activities"", ""conceptual and operational aspects Manage end to end projects clarify requirements"", ""devise research approaches Collect and combine data from multiple sources analyze it for insights"", ""produce great visuals"", ""systematically analyze and build statistical and machine learning models"", ""communication skills"", ""analytical and problem solving skills"", ""work in a team"", ""developing solutions"", ""analytical and problem solving skills"", ""research"", ""develop"", ""mindset and""]","[""Data Science analysis"", ""Python Machine Learning"", ""AI libraries R"", ""SAS"", ""Data Scientist"", ""machine learning"", ""Degree"", ""Computer Science Mathematics"", ""data mining"", ""machine learning algorithms regression techniques Bayesian models decision trees clustering pattern recognition probability theory stochastic systems statistical techniques"", ""dimensionality reduction"", ""Deep Learning Neural Nets Graph Nets Computational Linguistics NLP NLU NLG"", ""Speech"", ""Computer Vision Video Image Processing Auto Encoders"", ""Generative Networks"", ""Reinforcement Learning"", ""model production"", ""CI CD"", ""REST API"", ""Python R SAS"", ""TensorFlow PyTorch H2O"", ""research"", ""robotics process automation RPA"", ""AI ML"", ""data structures data modeling software architecture"", ""implementation"", ""math probability statistics"", ""algorithms Continuous learning""]"
+"Data Scientist - AI (Financial Services) Senior Consultant, Technology Consulting Banking and Finance Jobs Singapore | MyCareersFuture Singapore","Turn data into an asset for clients
+Rapidly perform Data Science analysis to provide insights using a variety of techniques
+Apply experience and expertise in several tools such as Python, Machine Learning and AI libraries, R and SAS
+Perform full lifecycle of Data Scientist activities, including conceptual and operational aspects
+Manage end to end projects - clarify requirements and devise research approaches
+Collect and combine data from multiple sources, analyze it for insights and produce great visuals
+Stay on top of current business and industry trends
+At the heart of this project is the ability to systematically analyze and build statistical and machine learning models for our clients across markets. We are looking for talented and experienced Data Scientists to bring innovation at EY
+Excellent communication skills
+Outstanding analytical and problem-solving skills
+Ability to work in a team
+Degree in Computer Science, Mathematics or similar quantitative field;
+Minimally 3 years of relevant experience
+Strong knowledge and experience of data mining and machine learning - algorithms, regression techniques, Bayesian models, decision trees, clustering, pattern recognition, probability theory, stochastic systems, statistical techniques and dimensionality reduction
+Deep knowledge and experience developing solutions using Deep Learning, Neural Nets, Graph-Nets, Computational Linguistics (NLP, NLU, NLG, Speech) and Computer Vision (Video, Image Processing), Auto-Encoders and Generative Networks.
+Knowledge of Reinforcement Learning is a plus
+Understanding and experience in model production using CI/CD and REST API, or similar services for real-time processing
+Programming experience with Python, R, SAS or other related languages
+Experience in TensorFlow, PyTorch, H2O or similar framework; expertise in any of these frameworks is a plus
+Strong analytical and problem-solving skills with a passion for research
+Knowledge of robotics process automation (RPA) is a plus
+Proven experience as a Data Scientist in AI/ML or similar role
+Understanding of data structures, data modeling, software architecture and implementation
+Deep knowledge of math, probability, statistics and algorithms
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.","[""Turn data into an asset"", ""Rapidly perform Data Science analysis"", ""provide insights using a variety of techniques"", ""Perform full lifecycle of Data Scientist activities"", ""conceptual and operational aspects Manage end to end projects clarify requirements"", ""devise research approaches Collect and combine data from multiple sources analyze it for insights"", ""produce great visuals"", ""systematically analyze and build statistical and machine learning models"", ""communication skills"", ""analytical and problem solving skills"", ""work in a team"", ""developing solutions"", ""analytical and problem solving skills"", ""research"", ""develop"", ""mindset and""]","[""Data Science analysis"", ""Python Machine Learning"", ""AI libraries R"", ""SAS"", ""Data Scientist"", ""machine learning"", ""Degree"", ""Computer Science Mathematics"", ""data mining"", ""machine learning algorithms regression techniques Bayesian models decision trees clustering pattern recognition probability theory stochastic systems statistical techniques"", ""dimensionality reduction"", ""Deep Learning Neural Nets Graph Nets Computational Linguistics NLP NLU NLG"", ""Speech"", ""Computer Vision Video Image Processing Auto Encoders"", ""Generative Networks"", ""Reinforcement Learning"", ""model production"", ""CI CD"", ""REST API"", ""Python R SAS"", ""TensorFlow PyTorch H2O"", ""research"", ""robotics process automation RPA"", ""AI ML"", ""data structures data modeling software architecture"", ""implementation"", ""math probability statistics"", ""algorithms Continuous learning""]"
+"Data Engineer, Senior Manager, Technology Consulting Consulting Jobs Singapore | MyCareersFuture Singapore","Apply data mining, data modelling, natural language processing, and machine learning to extract and analyse information from large structured and unstructured datasets
+Develop and implement techniques and analytics applications to transform raw data into meaningful
+information using dataoriented programming languages and visualisation software.
+Visualise, interpret, and report data findings and may create dynamic data reports as well
+Design, develop, and maintain the organization's data architecture, including data pipelines, databases, and data warehouses.
+Develop and maintain ETL (Extract, Transform, Load) processes to efficiently move data from various sources to the data
+Implement data quality checks and monitoring processes to identify and resolve data issues in a timely manner.
+Collaborate with data scientists, analysts, and other cross-functional teams to understand data requirements and deliver data solutions that meet business needs.
+Experience in ETL, Data Engineering, Scripting.
+Knowledge and experience in end-to-end project delivery, either traditional SDLC or agile delivery methodologies (or hybrid approaches)
+Experience in a delivery role on Business Intelligence, Data Warehousing, Big Data or analytics projects
+Exceptional communication, documentation and presentation skills and stakeholder management experiences
+Experience in business intelligence, data warehousing/platform, and data strategy projects
+At least a Bachelor's degree in any of these faculties: Computer Science/Information Technology/Programming & Systems Analysis/Science (Computer Studies)
+Minimum total 3 years work experience in at least 1 of these job titles: (1) Chief Data Scientist (2) Data Engineer (3) Data Scientist (4) Head of Data Analytics
+At least 10 years of experience in a relevant industry or consulting role. Management consulting experience gained through a Big 4 is highly advantageous
+Experience in development and maintenance of Data processing pipelines
+Experience developing machine learning workflows
+Work closely with business analysts to create data components
+Application packaging and deployment experience across DEV to PROD environments
+Experienced in engaging and managing a variety of stakeholders
+Prior experience of leading team for projects and pursuits
+Excellent written, communication, and presentation skills in English (additional local language skills are considered an asset)
+Dashboarding experience with Tableau / Power BI
+Experience in engaging with both technical and non-technical stakeholders
+Consulting experience and background, including engaging directly with clients
+Highly motivated individuals with excellent problem-solving skills and the ability to prioritize shifting workloads in a rapidly changing industry.
+An effective communicator, you’ll be a confident leader equipped with strong people management skills and a genuine passion to make things happen in a dynamic organization.
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.","[""extract and analyse information from large structured and unstructured datasets Develop and implement techniques and analytics applications"", ""transform raw data into meaningful information"", ""Visualise interpret and report data findings"", ""create dynamic data reports"", ""Design develop and maintain the organization"", ""Develop and maintain ETL Extract Transform Load processes"", ""efficiently move data from various sources"", ""Implement data quality checks and monitoring processes"", ""identify and resolve data issues in a timely manner Collaborate with data scientists analysts and other cross functional teams"", ""understand data requirements"", ""deliver data solutions"", ""meet business needs"", ""to end"", ""communication documentation"", ""presentation skills"", ""development and maintenance of Data processing pipelines"", ""developing machine learning workflows Work closely with business analysts"", ""create data components"", ""engaging and managing a variety of stakeholders"", ""leading team for projects and pursuits"", ""communication and presentation skills"", ""engaging with both technical and non technical stakeholders"", ""engaging directly with clients"", ""motivated"", ""problem solving skills"", ""prioritize shifting workloads"", ""effective communicator"", ""confident leader"", ""people management skills"", ""make things happen"", ""learning"", ""develop the mindset and skills"", ""leadership""]","[""data mining data modelling natural language processing"", ""machine learning"", ""dataoriented programming languages"", ""data architecture"", ""data pipelines databases"", ""data warehouses"", ""ETL"", ""Load"", ""ETL Data Engineering"", ""end"", ""project delivery"", ""SDLC or agile delivery methodologies"", ""hybrid"", ""Business Intelligence Data Warehousing Big Data"", ""analytics"", ""documentation"", ""stakeholder management"", ""business intelligence data warehousing platform"", ""data strategy"", ""Bachelor s degree"", ""Computer Science Information Technology Programming Systems Analysis Science Computer Studies"", ""Data Analytics"", ""Management consulting"", ""Big 4"", ""Data processing pipelines"", ""machine learning"", ""Application packaging"", ""deployment"", ""DEV"", ""PROD"", ""English"", ""Tableau Power BI""]"
+"Data Engineer, Manager, Technology Consulting Consulting Jobs Singapore | MyCareersFuture Singapore","Apply data mining, data modelling, natural language processing, and machine learning to extract and analyse information from large structured and unstructured datasets
+Develop and implement techniques and analytics applications to transform raw data into meaningful
+information using dataoriented programming languages and visualisation software.
+Visualise, interpret, and report data findings and may create dynamic data reports as well
+Design, develop, and maintain the organization's data architecture, including data pipelines, databases, and data warehouses.
+Develop and maintain ETL (Extract, Transform, Load) processes to efficiently move data from various sources to the data
+Implement data quality checks and monitoring processes to identify and resolve data issues in a timely manner.
+Collaborate with data scientists, analysts, and other cross-functional teams to understand data requirements and deliver data solutions that meet business needs.
+Experience in ETL, Data Engineering, Scripting.
+Knowledge and experience in end-to-end project delivery, either traditional SDLC or agile delivery methodologies (or hybrid approaches)
+Experience in a delivery role on Business Intelligence, Data Warehousing, Big Data or analytics projects
+Exceptional communication, documentation and presentation skills and stakeholder management experiences
+Experience in business intelligence, data warehousing/platform, and data strategy projects
+At least a Bachelor's degree in any of these faculties: Computer Science/Information Technology/Programming & Systems Analysis/Science (Computer Studies)
+Minimum total 6 years work experience in at least 1 of these job titles: (1) Chief Data Scientist (2) Data Engineer (3) Data Scientist (4) Head of Data Analytics
+Experience in development and maintenance of Data processing pipelines
+Experience developing machine learning workflows
+Work closely with business analysts to create data components
+Application packaging and deployment experience across DEV to PROD environments
+Dashboarding experience with Tableau / Power BI
+Experience in engaging with both technical and non-technical stakeholders
+Consulting experience and background, including engaging directly with clients
+Highly motivated individuals with excellent problem-solving skills and the ability to prioritize shifting workloads in a rapidly changing industry.
+An effective communicator, you’ll be a confident leader equipped with strong people management skills and a genuine passion to make things happen in a dynamic organization.
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.","[""extract and analyse information from large structured and unstructured datasets Develop and implement techniques and analytics applications"", ""transform raw data into meaningful information"", ""Visualise interpret and report data findings"", ""create dynamic data reports"", ""Design develop and maintain the organization"", ""Develop and maintain ETL Extract Transform Load processes"", ""efficiently move data from various sources"", ""Implement data quality checks and monitoring processes"", ""identify and resolve data issues in a timely manner Collaborate with data scientists analysts and other cross functional teams"", ""understand data requirements"", ""deliver data solutions"", ""meet business needs"", ""to end"", ""communication documentation"", ""presentation skills"", ""development and maintenance of Data processing pipelines"", ""developing machine learning workflows Work closely with business analysts"", ""create data components"", ""engaging with both technical and non technical stakeholders"", ""engaging directly with clients"", ""motivated individuals"", ""problem solving skills"", ""prioritize shifting workloads"", ""effective communicator"", ""confident leader"", ""people management"", ""make things happen in a dynamic organization Continuous learning"", ""the mindset and skills"", ""Transformative leadership""]","[""data mining data modelling natural language processing"", ""machine learning"", ""dataoriented programming languages"", ""data architecture"", ""data pipelines databases"", ""data warehouses"", ""ETL"", ""Load"", ""ETL Data Engineering"", ""end"", ""project delivery"", ""SDLC or agile delivery methodologies"", ""hybrid"", ""Business Intelligence Data Warehousing Big Data"", ""analytics"", ""documentation"", ""stakeholder management"", ""business intelligence data warehousing platform"", ""data strategy"", ""Bachelor s degree"", ""Computer Science Information Technology Programming Systems Analysis Science Computer Studies"", ""Data Analytics"", ""Data processing pipelines"", ""machine learning workflows"", ""Application packaging"", ""deployment"", ""DEV to PROD"", ""Tableau Power BI""]"
